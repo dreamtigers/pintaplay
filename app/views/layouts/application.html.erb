@@ -9,6 +9,7 @@
   </head>
 
   <body>
+    <%= render 'layouts/header' %>
     <% if user_signed_in? %>
       <li><%= link_to "New Pin", new_pin_path %></li>
       <li><%= link_to "Account", edit_user_registration_path %></li>
