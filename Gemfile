@@ -38,6 +38,8 @@ gem 'devise'
 gem 'paperclip'
 # Use acts_as_votable for voting on pins
 gem 'acts_as_votable'
+# Use masonry-rails for nice transitions
+gem 'masonry-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
