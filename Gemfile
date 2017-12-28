@@ -32,16 +32,13 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-# Use devise for user auth
-gem 'devise'
-# Use paperclip for file uploading
-gem 'paperclip'
-# Use acts_as_votable for voting on pins
-gem 'acts_as_votable'
-# Use masonry-rails for nice transitions
-gem 'masonry-rails'
-# Use bootstrap for nice visuals
-gem 'bootstrap', '~> 4.0.0.alpha3'
+
+# Bootstrap to make it look nice
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+# HTML made easy
+gem 'haml', '~> 5.0', '>= 5.0.4'
+# Simple forms
+gem 'simple_form', '~> 3.5'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

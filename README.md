@@ -5,6 +5,7 @@ Heavily inpired/helped by https://rubyplus.com/articles/4041-How-to-build-a-Pint
 Things I may want to cover:
 
 * Ruby version
+  ruby 2.4.3p205
 
 * System dependencies
 
