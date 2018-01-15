@@ -1,24 +1,5 @@
-# 2. PintaPlay (Pinterest Clone)
+# 2. Pintaplay (Pinterest Clone)
 
-Heavily inpired/helped by https://rubyplus.com/articles/4041-How-to-build-a-Pinterest-Clone-in-Rails-5
+Technical test app made for PlayBusiness... remade.
 
-Things I may want to cover:
-
-* Ruby version
-  ruby 2.4.3p205
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Credits go to this [dude](https://youtu.be/abcnfFS_DS8).
