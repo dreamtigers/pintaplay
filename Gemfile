@@ -43,6 +43,10 @@ gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.4'
 # Easy uploading
 gem 'paperclip', '~> 5.1'
+# I hate JQuery, but apparently is necessary for masonry
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+# Cascading grid layout library
+gem 'masonry-rails', '~> 0.2.4'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
