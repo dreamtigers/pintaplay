@@ -41,6 +41,8 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 3.5'
 # All the users
 gem 'devise', '~> 4.4'
+# Easy uploading
+gem 'paperclip', '~> 5.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
